@@ -1,0 +1,33 @@
+.profile {
+  min-height: 80vh;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  padding: 20px;
+}
+
+.profile-card {
+  background: white;
+
+  padding: 40px;
+
+  border-radius: 15px;
+
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+
+  text-align: center;
+}
+
+.profile-card h1 {
+  color: #667eea;
+
+  margin-bottom: 15px;
+}
+
+.profile-card p {
+  color: #555;
+}
